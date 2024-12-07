@@ -32,7 +32,7 @@
 ## Installation
 
 ```
-# git clone https://github.com/MrEmpy/zoris.git
+# git clone https://github.com/Brosck/zoris.git
 # chmod +x build.sh
 # ./build.sh
 ```
